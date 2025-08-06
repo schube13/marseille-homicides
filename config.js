@@ -414,7 +414,7 @@ var config = {
             hidden: false,
             title: 'Looking at the Arrondissements: 14th has the most killings.',
             image: './assets/morde_pro_arron.png',
-            description: 'Having a closer look at the percentages of gang related homecides in the 16 arrondissements, you can spot that the southern Arrondissements have none or hardly any cases. The very red Arrondissement in the north of the Marseille is the 13th Arrondissement with 30% of all the homicides since 2023.',
+            description: 'Having a closer look at the percentages of gang related homecides in the 16 arrondissements, you can spot that the southern Arrondissements have none or hardly any cases. The very red Arrondissement in the north of the Marseille is the 14th Arrondissement with 30% of all the homicides since 2023.',
                 location: {
                 center: [5.386564, 43.299162],
                 zoom: 10.5,
